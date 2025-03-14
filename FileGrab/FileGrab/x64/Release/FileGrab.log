@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 230 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FileGrab.vcxproj -> D:\sourcecodes\cpp\fileGrab\FileGrab\x64\Release\FileGrab.exe
