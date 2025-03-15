@@ -1,4 +1,4 @@
 # FileGrab
-C++ Relase 2022 Comunity
+x64 Relase visual studio 2022 community
 # use
 For malware analysis, Forensic, SOC
